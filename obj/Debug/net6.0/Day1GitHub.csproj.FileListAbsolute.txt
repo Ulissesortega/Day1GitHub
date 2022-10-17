@@ -1,0 +1,15 @@
+/Users/ulisesortega/Documents/Level1/Week1/Day1GitHub/bin/Debug/net6.0/Day1GitHub
+/Users/ulisesortega/Documents/Level1/Week1/Day1GitHub/bin/Debug/net6.0/Day1GitHub.deps.json
+/Users/ulisesortega/Documents/Level1/Week1/Day1GitHub/bin/Debug/net6.0/Day1GitHub.runtimeconfig.json
+/Users/ulisesortega/Documents/Level1/Week1/Day1GitHub/bin/Debug/net6.0/Day1GitHub.dll
+/Users/ulisesortega/Documents/Level1/Week1/Day1GitHub/bin/Debug/net6.0/Day1GitHub.pdb
+/Users/ulisesortega/Documents/Level1/Week1/Day1GitHub/obj/Debug/net6.0/Day1GitHub.csproj.AssemblyReference.cache
+/Users/ulisesortega/Documents/Level1/Week1/Day1GitHub/obj/Debug/net6.0/Day1GitHub.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulisesortega/Documents/Level1/Week1/Day1GitHub/obj/Debug/net6.0/Day1GitHub.AssemblyInfoInputs.cache
+/Users/ulisesortega/Documents/Level1/Week1/Day1GitHub/obj/Debug/net6.0/Day1GitHub.AssemblyInfo.cs
+/Users/ulisesortega/Documents/Level1/Week1/Day1GitHub/obj/Debug/net6.0/Day1GitHub.csproj.CoreCompileInputs.cache
+/Users/ulisesortega/Documents/Level1/Week1/Day1GitHub/obj/Debug/net6.0/Day1GitHub.dll
+/Users/ulisesortega/Documents/Level1/Week1/Day1GitHub/obj/Debug/net6.0/refint/Day1GitHub.dll
+/Users/ulisesortega/Documents/Level1/Week1/Day1GitHub/obj/Debug/net6.0/Day1GitHub.pdb
+/Users/ulisesortega/Documents/Level1/Week1/Day1GitHub/obj/Debug/net6.0/Day1GitHub.genruntimeconfig.cache
+/Users/ulisesortega/Documents/Level1/Week1/Day1GitHub/obj/Debug/net6.0/ref/Day1GitHub.dll
